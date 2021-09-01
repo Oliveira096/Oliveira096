@@ -1,8 +1,8 @@
 ### Oii! Eu sou Ana Oliveira 🤗😊
 
 - 🎓💻 Estudante de Sistemas de Informação.
-- 🤓 Atualmente estou aprendendo HTML5, CSS3 e C #
-- 😄 Pronomes: Ela / Dela
+- 🤓 Atualmente estou aprendendo HTML5, CSS3 e JS
+
 
  <div>
   <a href="https://github.com/Oliveira096">
@@ -16,7 +16,7 @@
 <a href = "mailto:Oliveiraaninha096@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
 
 
-   ! [Animação de cobra] (https://github.com/Oliveira096/Oliveira096/blob/output/github-contribution-grid-snake.svg
+   ! [Animação de cobra] (https://github.com/Oliveira096/Oliveira096/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 
