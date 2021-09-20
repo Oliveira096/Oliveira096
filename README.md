@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/ana-oliveira-455860211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:Oliveiraaninha096@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
 
-! [ Animação de cobra ] (https://github.com/Oliveira096)
+! [ Animação de cobra ] (https://github.com/Oliveira096/Oliveira096/blob/output/github-contribution-grid-snake.svg)
    
  </div>
 
